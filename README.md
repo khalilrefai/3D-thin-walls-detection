@@ -1,5 +1,5 @@
 # mesh-viewer
-![screenshot](https://github.com/khalilrefai/mesh-viewer/blob/main/screenshot.PNG?raw=true)
+![screenshot](https://github.com/khalilrefai/3D-thin-walls-detection/blob/main/screenshot.PNG?raw=true)
 
 ## Overview
 
