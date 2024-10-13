@@ -38,10 +38,10 @@ int main(int argc, char *argv[])
 	double thicknessThreshold = std::stod(argv[2]);
 	std::vector< bool > flaggedVertices = ThinWalls::evaluate(V, F, thicknessThreshold);
 
-    // Check if the vector contains any true values
-    bool containsThinWalls = std::any_of(flaggedVertices.begin(), flaggedVertices.end(), [](bool val) {
-        return val;
-    });
+	// Check if the vector contains any true values
+	bool containsThinWalls = std::any_of(flaggedVertices.begin(), flaggedVertices.end(), [](bool val) {
+		return val;
+	});
 
 	if (containsThinWalls)
 	{
