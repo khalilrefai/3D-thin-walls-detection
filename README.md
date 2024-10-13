@@ -1,4 +1,4 @@
-# mesh-viewer
+# 3D mesh thin walls detection
 ![screenshot](https://github.com/khalilrefai/3D-thin-walls-detection/blob/main/screenshot.PNG?raw=true)
 
 ## Overview
